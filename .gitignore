@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+/nova pasta
 # testing
 /coverage
 
